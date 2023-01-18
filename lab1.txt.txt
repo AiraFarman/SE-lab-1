@@ -34,7 +34,7 @@ in this era, where everything is being digitized, from a simple thing to more co
 \subsection*{Document Purpose}
 the purpose for this documentations is simply to highlight the above mentioned issues facing by users everyday and to solve this problem by providing a suitable web application with simple interface for the people who are new to technologies. This document explains the Hire-Loop interface both for a person who is applying for a job and a person who wants to find someone who will be able to work for them as per their demands. 
 
-
+This website offers a user-friendly platform for the convenience of its visitors. Whether you're a recent graduate, a seasoned professional, or somewhere in between, we are confident that our application will help you create a resume that showcases your talents and accomplishments. For instance, if a person wants to apply for a job and wants well-known organizations to recognize them, they may quickly build profiles and post their resumes. They must first log in to do that, and if they don't already have an account, they will be prompted to do so. After creating their profiles, users are taken to their Dashboard, which contains information about their background, including their schooling, employment history, credentials, and experiences.
 
 \section {Product Scope}
 
