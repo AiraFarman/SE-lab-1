@@ -65,6 +65,9 @@ This web application also targets the project managers, marketing staff in such 
 The developers are also targeted. They must be able to acknowledge the user's requirements of every type. They must consider those people who are new to technology and finds it difficult to understand how to use a particular application. The developers must also consider those people who are technologists and have a prior knowledge about technology and know how to use application. So, by considering all types of user, the developer must be able to design an interface which will be easy to use for beginners as well as not boring enough for people who are from digital era. our design for hire loop is suitable for all types of people considering all factors. every steps of using this user-friendly application is explained in details in proceeding chapters.
 
 \subsection{Document Overview}
+
+
+This website offers a user-friendly platform for the convenience of its visitors. Whether you're a recent graduate, a seasoned professional, or somewhere in between, we are confident that our application will help you create a resume that showcases your talents and accomplishments. For instance, if a person wants to apply for a job and wants well-known organizations to recognize them, they may quickly build profiles and post their resumes. They must first log in to do that, and if they don't already have an account, they will be prompted to do so. After creating their profiles, users are taken to their Dashboard, which contains information about their background, including their schooling, employment history, credentials, and experiences.
 this document is written to give the clients an overview of the web application which we are developing. This web application is being developed for job seekers to HR. the main goal is to facilitates both users that they wouldn't find difficulty using our interface. the product
 
 
