@@ -9,13 +9,7 @@
 	{\scshape\bfseries\huge HIRE LOOP \par}
 	\vspace{1cm}
 	{\scshape\bfseries\huge Version 1.0 \par}
-	\vspace{1cm}
-	{\huge\bfseries Nimrah Sohail (CS-20044) \par}
-	\vspace{1cm}
-	{\huge\bfseries Muniba Rahman (CS-20057) \par}
-	\vspace{1cm}
-	{\huge\bfseries Safa Rizwan (CS-20059) \par}
-	\vspace{1cm}
+	
 	{\huge\bfseries Aira Farman (CS-20072) \par}
 	\vspace{1.5cm}
 	{\Large\itshape Department of Computer and Information Systems
